@@ -1,5 +1,12 @@
-GitHub is a website for developers and programmers to collaboratively work on code, both Git and GitHub give programmers valuable version-control functionality so that
-they can build ongoing coding projects without being afraid of messing everything up. The importance of Git and Github is that, it makes it easy to contribute to your
-open source projects, Git tracks the changes you make to files, so you have a record of what has been done, and you can revert to specific versions should you ever need to.
-Git also makes collaboration easier, allowing changes by multiple people to all be merged into one source which allows for seamless collaboration without compromising the
-integrity of the original project.
+                 IMPORTANCE OF GIT AND GITHUB
+
+      GitHub is a website for developers and programmers to collaboratively
+work on code, both Git and GitHub give programmers valuable version-control
+functionality so that they can build ongoing coding projects without being
+afraid of messing everything up. The importance of Git and Github is that,
+it makes it easy to contribute to your open source projects, Git tracks the
+changes you make to files, so you have a record of what has been done, and
+you can revert to specific versions should you ever need to. Git also make
+collaboration easier, allowing changes by multiple people to all be merged
+into one source which allows for seamless collaboration without compromising
+the integrity of the original project
